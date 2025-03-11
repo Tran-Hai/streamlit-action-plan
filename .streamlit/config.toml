@@ -1,0 +1,11 @@
+[server]
+port = 8080
+headless = true
+enableCORS = true
+
+
+[theme]
+base="light"
+secondaryBackgroundColor="#e2a01b"
+font="serif"
+
